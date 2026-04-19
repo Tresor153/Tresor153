@@ -55,14 +55,6 @@ Ich arbeite daran, bessere Projekte zu bauen, meine Kenntnisse in der Anwendungs
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tresor153&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tresor153&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🚀 Thanks for stopping by
 
