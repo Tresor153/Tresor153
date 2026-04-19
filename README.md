@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Tresor153/Tresor153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin **Tresor**, ein angehender **Fachinformatiker / Application Developer** aus Berlin.
 
-Here are some ideas to get you started:
+Ich liebe es, mit Code Ideen in echte Projekte zu verwandeln — egal ob **C#**, **PHP**, **SQL**, **MySQL/MariaDB** oder **Webentwicklung**.  
+Aktuell arbeite ich daran, meine Fähigkeiten Schritt für Schritt zu verbessern und saubere, praktische Lösungen zu bauen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was ich gerade lerne
+- C# / .NET
+- Windows Forms
+- PHP
+- SQL & Datenbanken
+- Webentwicklung
+- Git & GitHub
+
+## Meine Interessen
+- Softwareentwicklung
+- Datenbanken
+- Fußball und NBA
+- Fitness und Training
+- Kochen und neue Rezepte ausprobieren
+
+## Ziele
+- Besser in der Entwicklung werden
+- Eigene Projekte sauber aufbauen
+- Mehr über moderne Softwareentwicklung lernen
+- Praktische Erfahrung im IT-Bereich sammeln
+
+## Kontakt
+Wenn du dich für meine Projekte interessierst oder einfach austauschen willst, schau gern in meine Repositories vorbei.
+
+**Danke für den Besuch! 🚀**
